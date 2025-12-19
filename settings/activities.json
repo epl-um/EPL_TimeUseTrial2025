@@ -1,9 +1,9 @@
 {
   "general": {
-    "experimentID": "eR8ENvJPgQth",
-    "app_name": "O-TUD",
+    "experimentID": "eApfhCFy7VQp",
+    "app_name": "EPL-TimeUseTrial",
     "version": "1.0.0",
-    "author": "John Doe",
+    "author": "Environment and Policy Lab, University of Michigan",
     "language": "en",
     "instructions": true,
     "primary_redirect_url": "pages/thank-you.html",
