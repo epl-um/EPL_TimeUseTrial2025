@@ -2580,8 +2580,8 @@
       ]
     },
     "enjoyment": {
-      "name": "Enjoyment",
-      "description": "How much did you enjoy yourself doing this activity?",
+      "name": "Stress",
+      "description": "How stressful was this activity?",
       "mode": "single-choice",
       "min_coverage": "0",
       "categories": [
@@ -2589,7 +2589,7 @@
           "name": " ",
           "activities": [
             {
-              "name": "7 - Enjoyed very much",
+              "name": "7 - Not stressful at all",
               "examples": "",
               "color": "#FF9EC0"
             },
@@ -2619,7 +2619,7 @@
               "color": "#FFE4ED"
             },
             {
-              "name": "1 - Didn't enjoy at all",
+              "name": "1 - Very stressful",
               "examples": "",
               "color": "#FFF2F6"
             }
