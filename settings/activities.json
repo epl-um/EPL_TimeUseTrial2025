@@ -2370,22 +2370,6 @@
               }
             ]
           },
-		  {
-			"name": "Coding",
-			"code": 199,
-			"label": "Coding",
-			"short": "code",
-			"vshort": "cde",
-			"color": "#a2e0da",
-			"childItems": [
-			  {
-				"name": "Coding - Editing Code"
-			  },
-			  {
-				"name": "Coding - Writing Code"
-			  }
-			]
-		  },
           {
             "name": "Other",
             "color": "#808080",
