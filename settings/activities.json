@@ -1717,14 +1717,6 @@
                     "short": "work",
                     "vshort": "wrk",
                     "color": "#f1dabc"
-                  },
-                  {
-                    "name": "Grant Brainstorming",
-                    "code": 117,
-                    "label": "paid work (including at home)",
-                    "short": "work",
-                    "vshort": "wrk",
-                    "color": "#f1dabc"
                   }
                 ]
               },
@@ -1797,17 +1789,17 @@
                 ]
               },
               {
-                "name": "Voluntary Work for Club, Organization",
+                "name": "Voluntary Work for Club, Organisation",
                 "code": 120,
-                "label": "voluntary work for club, organization",
+                "label": "voluntary work for club, organisation",
                 "short": "vol work",
                 "vshort": "vol",
                 "color": "#f2afd2",
                 "childItems": [
                   {
-                    "name": "Organisational work (work for or through an organization)",
+                    "name": "Organisational work (work for or through an organisation)",
                     "code": 120,
-                    "label": "voluntary work for club, organization",
+                    "label": "voluntary work for club, organisation",
                     "short": "vol work",
                     "vshort": "vol",
                     "color": "#f2afd2"
@@ -1815,7 +1807,7 @@
                   {
                     "name": "Meetings",
                     "code": 120,
-                    "label": "voluntary work for club, organization",
+                    "label": "voluntary work for club, organisation",
                     "short": "vol work",
                     "vshort": "vol",
                     "color": "#f2afd2"
@@ -1823,7 +1815,7 @@
                   {
                     "name": "Other participatory activities",
                     "code": 120,
-                    "label": "voluntary work for club, organization",
+                    "label": "voluntary work for club, organisation",
                     "short": "vol work",
                     "vshort": "vol",
                     "color": "#f2afd2"
@@ -2587,7 +2579,7 @@
         }
       ]
     },
-    "stress": {
+    "enjoyment": {
       "name": "Stress",
       "description": "How stressful was this activity?",
       "mode": "single-choice",
