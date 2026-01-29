@@ -1717,6 +1717,14 @@
                     "short": "work",
                     "vshort": "wrk",
                     "color": "#f1dabc"
+                  },
+                  {
+                    "name": "Grant Brainstorming",
+                    "code": 117,
+                    "label": "paid work (including at home)",
+                    "short": "work",
+                    "vshort": "wrk",
+                    "color": "#f1dabc"
                   }
                 ]
               },
@@ -1789,17 +1797,17 @@
                 ]
               },
               {
-                "name": "Voluntary Work for Club, Organisation",
+                "name": "Voluntary Work for Club, Organization",
                 "code": 120,
-                "label": "voluntary work for club, organisation",
+                "label": "voluntary work for club, organization",
                 "short": "vol work",
                 "vshort": "vol",
                 "color": "#f2afd2",
                 "childItems": [
                   {
-                    "name": "Organisational work (work for or through an organisation)",
+                    "name": "Organisational work (work for or through an organization)",
                     "code": 120,
-                    "label": "voluntary work for club, organisation",
+                    "label": "voluntary work for club, organization",
                     "short": "vol work",
                     "vshort": "vol",
                     "color": "#f2afd2"
@@ -1807,7 +1815,7 @@
                   {
                     "name": "Meetings",
                     "code": 120,
-                    "label": "voluntary work for club, organisation",
+                    "label": "voluntary work for club, organization",
                     "short": "vol work",
                     "vshort": "vol",
                     "color": "#f2afd2"
@@ -1815,7 +1823,7 @@
                   {
                     "name": "Other participatory activities",
                     "code": 120,
-                    "label": "voluntary work for club, organisation",
+                    "label": "voluntary work for club, organization",
                     "short": "vol work",
                     "vshort": "vol",
                     "color": "#f2afd2"
@@ -2362,6 +2370,22 @@
               }
             ]
           },
+		  {
+			"name": "Coding",
+			"code": 199,
+			"label": "Coding",
+			"short": "code",
+			"vshort": "cde",
+			"color": "#a2e0da",
+			"childItems": [
+			  {
+				"name": "Coding - Editing Code"
+			  },
+			  {
+				"name": "Coding - Writing Code"
+			  }
+			]
+		  },
           {
             "name": "Other",
             "color": "#808080",
@@ -2579,7 +2603,7 @@
         }
       ]
     },
-    "enjoyment": {
+    "stress": {
       "name": "Stress",
       "description": "How stressful was this activity?",
       "mode": "single-choice",
